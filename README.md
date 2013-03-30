@@ -22,7 +22,8 @@ for YEARS....n Years...
 
 hopefully it helps inspire an ez-ebuilder IDE 
 
-If you know not much in bash or python above hellow world.... and or dysleix SOB like me , programing a real son-of-a-Bi#t!@% ..
+If you know not much in bash or python above hellow world.... and or dysleix SOB like me , programing's a real son-of-a-Bi#t!@% ..
+being Dyslexic makes learning more about programing frustrating....
 As an IT security Admin I hate wating for packages I could use, like now, plus this would make Gentoo easier to port projects too
 sooner than latter
 
